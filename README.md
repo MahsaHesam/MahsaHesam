@@ -4,7 +4,7 @@
 
 
 
-<h1 align="left">👋 Hi, there I'm Mahsa!</h1>
+<align="left">👋 Hi, there I'm Mahsa!
 <h1 align="left">Tech Explorer, Now Data Enthusiast! Like many, I dabbled in different fields before finding my tech groove. But once I stumbled upon data analytics, it was like finding the missing puzzle piece! ✨ Now, I'm hooked on its potential and eager to master it. I started with a Data Analytics certificate at RMIT. There, I learned tools like SQL, Power BI, and Tableau, and even put them to work at Alfred Health, crafting dashboards that brought data to life. But I'm not stopping there! To dive deeper into the technical side, I'm now enrolled in Monash's Bootcamp, tackling data science and machine learning. Every day brings new challenges and exciting discoveries, and I'm loving the continuous learning. I'm constantly striving to improve, and I can't wait to see where this data adventure takes me!</h1>
 
 - 🔭 I’m currently: **Enrolled at Monash Data Analytics Bootcamp and I'm also an event Manager with Woman in Emerging Tech**
