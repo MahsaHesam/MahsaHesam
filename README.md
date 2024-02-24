@@ -35,7 +35,7 @@ Like many, I dabbled in different fields before finding my tech groove. But once
 ## 💥 Some Tools I Have Used and Learned
 <p align="left">
   
-  Here are some of the tools and technologies that I have used and learned:
+  Here are some of the tools and technologies that I have used:
 -  Python                                 
 -  R, RStudio, Radiant                     
 -  Java Script
