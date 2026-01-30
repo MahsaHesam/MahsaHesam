@@ -19,7 +19,6 @@ I started with a Data Analytics certificate at RMIT. There, I learned tools like
 
 **- 🌱 I’m currently learning:** More about Python, Machine learning and HTML/CSS
 
-**- 📫 How to reach me:** hesampour.mahsa@gmail.com
 
 **- ✈️ More about me:** With a passport full of stamps and a camera by my side, I'm always on the lookout for new adventures. 
                    Exploring different cultures has broadened my perspective, just like photography helps me capture the 
